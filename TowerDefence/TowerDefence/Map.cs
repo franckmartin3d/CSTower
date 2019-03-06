@@ -8,7 +8,15 @@ namespace TowerDefence
 {
     class Map
     {
-        int width;
-        int height;
+        public readonly int Width;
+        public readonly int Height;
+   
+
+        //Constructor method
+       public  Map(int width, int height)
+        {
+            Width = width;
+            Height = height;
+        }
     }
 }

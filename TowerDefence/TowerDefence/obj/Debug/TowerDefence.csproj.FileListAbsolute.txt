@@ -1,0 +1,6 @@
+C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csproj.CoreCompileInputs.cache
+C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.exe.config
+C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.exe
+C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.pdb
+C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.exe
+C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.pdb

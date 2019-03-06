@@ -6,12 +6,16 @@ using System.Threading.Tasks;
 
 namespace TowerDefence
 {
-    class Game
+    class Point
     {
-        static void Main()
+        public readonly int X;
+        public readonly int Y;
+
+        public Point (int x, int y)
         {
-            // Initiate a new Tower object 
-            Tower tower = new Tower();
+            x = X;
+            y = Y;
         }
+
     }
 }
