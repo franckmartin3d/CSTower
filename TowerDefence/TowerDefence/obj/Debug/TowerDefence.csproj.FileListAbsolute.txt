@@ -4,3 +4,10 @@ C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.ex
 C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.pdb
 C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.exe
 C:\Coding_2018\Project\Tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.pdb
+W:\code\tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.exe.config
+W:\code\tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.exe
+W:\code\tower\TowerDefence\TowerDefence\bin\Debug\TowerDefence.pdb
+W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csprojResolveAssemblyReference.cache
+W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csproj.CoreCompileInputs.cache
+W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.exe
+W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.pdb
