@@ -24,7 +24,9 @@ namespace TowerDefence
             int xDiffSquare = xDiff * xDiff;
             int yDiffSquare = yDiff * yDiff;
 
-            return Math.Sqrt(xDiffSquare + yDiffSquare);
+            return (int)Math.Sqrt(xDiffSquare + yDiffSquare);
+
+
 
         }
     }
