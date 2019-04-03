@@ -1,0 +1,10 @@
+diff a/TowerDefence/TowerDefence/Point.cs b/TowerDefence/TowerDefence/Point.cs	(rejected hunks)
+@@ -24,7 +24,7 @@
+             int xDiffSquare = xDiff * xDiff;
+             int yDiffSquare = yDiff * yDiff;
+ 
+-            return Math.Sqrt(xDiffSquare + yDiffSquare);
++            return (int)Math.Sqrt(xDiffSquare + yDiffSquare);
+ 
+         }
+     }
