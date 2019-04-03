@@ -11,3 +11,10 @@ W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csprojResolveAsse
 W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csproj.CoreCompileInputs.cache
 W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.exe
 W:\code\tower\TowerDefence\TowerDefence\obj\Debug\TowerDefence.pdb
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\bin\Debug\TowerDefence.exe.config
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\bin\Debug\TowerDefence.exe
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\bin\Debug\TowerDefence.pdb
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csprojAssemblyReference.cache
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Debug\TowerDefence.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Debug\TowerDefence.exe
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Debug\TowerDefence.pdb

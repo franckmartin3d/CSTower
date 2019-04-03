@@ -1,0 +1,7 @@
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\bin\Release\TowerDefence.exe.config
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\bin\Release\TowerDefence.exe
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\bin\Release\TowerDefence.pdb
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Release\TowerDefence.csprojAssemblyReference.cache
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Release\TowerDefence.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Release\TowerDefence.exe
+C:\Users\franc\Documents\code\c#\TowerDefence\TowerDefence\obj\Release\TowerDefence.pdb
