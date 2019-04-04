@@ -8,6 +8,24 @@ namespace TowerDefence
 {
     class Path
     {
+        private readonly MapLocations[] _path;
+        
+        public Path(MapLocations[] path)
+        {
+            _path = path;
+        }
 
+        public MapLocations GetLocationAt(int pathStep)
+        {
+            if(pathStep < _path.Length)
+            {
+                return _path[pathStep];
+            }
+            else
+            {
+                return null;
+            }
+        }
     }
+
 }

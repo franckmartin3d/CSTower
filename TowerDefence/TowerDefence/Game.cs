@@ -14,7 +14,17 @@ namespace TowerDefence
 
             try
             {
-                MapLocations mapLocations = new MapLocations(20, 20, map);
+                MapLocations[] path =
+                {
+                    new MapLocations(0, 2, map),
+                    new MapLocations(1, 2, map),
+                    new MapLocations(2, 2, map),
+                    new MapLocations(3, 2, map),
+                    new MapLocations(4, 2, map),
+                    new MapLocations(5, 2, map),
+                    new MapLocations(6, 2, map),
+                    new MapLocations(7, 2, map),
+                };
             }
             catch(OutOfBoundsExeption ex)
             {
